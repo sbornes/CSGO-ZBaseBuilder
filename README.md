@@ -1,9 +1,7 @@
 # CSGO-ZBaseBuilder
 
 CVARS:
-- "zbb_human_respawn"
-- "zbb_human_respawn"
-- "zbb_human_respawn"- "zbb_human_respawn"
+
 Features:
 - Credits
   -Unlock Guns
@@ -14,3 +12,4 @@ Features:
 
 VIP: (Custom Flag 1?)
 - Rainbow Beam Colour
+- Unlocks All Guns
